@@ -1,2 +1,3 @@
 server:
   context-path: /SpringBootSample
+  port: 8000
